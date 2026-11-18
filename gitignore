@@ -1,0 +1,10 @@
+# MIMIC-III derived data: must never be published (PhysioNet DUA)
+*.csv
+*.csv.gz
+*.parquet
+*.pkl
+*.joblib
+
+# Python / Jupyter
+.venv/
+__pycache__/
